@@ -1,0 +1,15 @@
+{
+  "id" : "https://patymurrieta.github.io/Nahuatl_Documents/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in patymurrieta/Nahuatl_Documents project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://patymurrieta.github.io/Nahuatl_Documents/manifests/Digirati_ENL_manifest.json",
+    "label" : {
+      "en" : [ "Digirati_ENL_manifest" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
