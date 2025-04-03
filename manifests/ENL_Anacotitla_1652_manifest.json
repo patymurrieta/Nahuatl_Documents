@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://patymurrieta.github.io/Nahuatl_Documents/manifests/ENL_Anacotitla_1652_manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "ENL_Anacotitla_Jalisco_1652",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Archivo General de la Nacion, Mexico]",
+  "sequences" : [ {
+    "@id" : "http://245372af-9414-405e-a29a-d6d482e9d67b",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://6b126262-36b0-4918-813d-cbf789ccd201",
+      "@type" : "sc:Canvas",
+      "label" : "Early Nahuatl Library",
+      "height" : 5483,
+      "width" : 3744,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://81d8cd94-6803-4d4e-9fc0-407d6fdc6865",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://patymurrieta.github.io/Nahuatl_Documents/images/ENL_Anacotitla_Jalisco_1652_Folio_a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://patymurrieta.github.io/Nahuatl_Documents/images/ENL_Anacotitla_Jalisco_1652_Folio_a",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5483,
+          "width" : 3744
+        },
+        "on" : "http://6b126262-36b0-4918-813d-cbf789ccd201"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e6abb059-8f6c-4b4a-a9f6-958004718c03",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 5476,
+      "width" : 3860,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8ef18928-b0c3-4c1c-851b-9d938de2bd1c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://patymurrieta.github.io/Nahuatl_Documents/images/ENL_Anacotitla_Jalisco_1652_Folio_b/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://patymurrieta.github.io/Nahuatl_Documents/images/ENL_Anacotitla_Jalisco_1652_Folio_b",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5476,
+          "width" : 3860
+        },
+        "on" : "http://e6abb059-8f6c-4b4a-a9f6-958004718c03"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
