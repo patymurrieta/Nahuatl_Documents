@@ -11,5 +11,9 @@
       "en" : [ "Digirati_ENL_manifest" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://patymurrieta.github.io/Nahuatl_Documents/manifests/ENL_Anacotitla_1652_manifest.json",
+    "label" : "ENL_Anacotitla_Jalisco_1652"
   } ]
 }
