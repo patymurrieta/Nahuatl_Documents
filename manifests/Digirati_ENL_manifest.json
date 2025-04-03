@@ -1,0 +1,183 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://patymurrieta.github.io/Nahuatl_Documents/manifests/Digirati_ENL_manifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Digirati_ENL_manifest" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/bak1g9uu43m-m91exzrr/canvas/6uwb5cb9exv-m91f1clx",
+    "type" : "Canvas",
+    "height" : 5483,
+    "width" : 3744,
+    "label" : {
+      "en" : [ "ENL_Anacotitla_Jalisco_1652_Folio_a" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/bak1g9uu43m-m91exzrr/canvas/6uwb5cb9exv-m91f1clx/annotation-page/vz8bg4j3jf-m91f1clx",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/bak1g9uu43m-m91exzrr/annotation/maasd59neqp-m91f1clw",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/bak1g9uu43m-m91exzrr/canvas/6uwb5cb9exv-m91f1clx",
+        "body" : {
+          "id" : "https://patymurrieta.github.io/Nahuatl_Documents/images/ENL_Anacotitla_Jalisco_1652_Folio_a/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5483,
+          "width" : 3744,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 117,
+              "height" : 172
+            }, {
+              "width" : 234,
+              "height" : 343
+            }, {
+              "width" : 468,
+              "height" : 686
+            }, {
+              "width" : 936,
+              "height" : 1371
+            }, {
+              "width" : 1872,
+              "height" : 2742
+            }, {
+              "width" : 3744,
+              "height" : 5483
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3744,
+            "@id" : "https://patymurrieta.github.io/Nahuatl_Documents/images/ENL_Anacotitla_Jalisco_1652_Folio_a",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 5483,
+            "id" : "https://patymurrieta.github.io/Nahuatl_Documents/images/ENL_Anacotitla_Jalisco_1652_Folio_a"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/bak1g9uu43m-m91exzrr/canvas/hm1pfg1zd8a-m91f52aw",
+    "type" : "Canvas",
+    "height" : 5476,
+    "width" : 3860,
+    "label" : {
+      "en" : [ "ENL_Anacotitla_Jalisco_1652_Folio_b" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/bak1g9uu43m-m91exzrr/canvas/hm1pfg1zd8a-m91f52aw/annotation-page/q4s6jzse6m-m91f52aw",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/bak1g9uu43m-m91exzrr/annotation/5yv48xdk6ux-m91f52aw",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/bak1g9uu43m-m91exzrr/canvas/hm1pfg1zd8a-m91f52aw",
+        "body" : {
+          "id" : "https://patymurrieta.github.io/Nahuatl_Documents/images/ENL_Anacotitla_Jalisco_1652_Folio_b/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5476,
+          "width" : 3860,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 121,
+              "height" : 172
+            }, {
+              "width" : 242,
+              "height" : 343
+            }, {
+              "width" : 483,
+              "height" : 685
+            }, {
+              "width" : 965,
+              "height" : 1369
+            }, {
+              "width" : 1930,
+              "height" : 2738
+            }, {
+              "width" : 3860,
+              "height" : 5476
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3860,
+            "@id" : "https://patymurrieta.github.io/Nahuatl_Documents/images/ENL_Anacotitla_Jalisco_1652_Folio_b",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 5476,
+            "id" : "https://patymurrieta.github.io/Nahuatl_Documents/images/ENL_Anacotitla_Jalisco_1652_Folio_b"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/bak1g9uu43m-m91exzrr/canvas/efrfa6buee-m91f611t",
+    "type" : "Canvas",
+    "height" : 5423,
+    "width" : 3701,
+    "label" : {
+      "en" : [ "ENL_Anacotitla_Jalisco_1652_Folio_d" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/bak1g9uu43m-m91exzrr/canvas/efrfa6buee-m91f611t/annotation-page/zarm9267gl-m91f611t",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/bak1g9uu43m-m91exzrr/annotation/ew5tiyy44x-m91f611t",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/bak1g9uu43m-m91exzrr/canvas/efrfa6buee-m91f611t",
+        "body" : {
+          "id" : "https://patymurrieta.github.io/Nahuatl_Documents/images/ENL_Anacotitla_Jalisco_1652_Folio_d/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5423,
+          "width" : 3701,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 116,
+              "height" : 170
+            }, {
+              "width" : 232,
+              "height" : 339
+            }, {
+              "width" : 463,
+              "height" : 678
+            }, {
+              "width" : 926,
+              "height" : 1356
+            }, {
+              "width" : 1851,
+              "height" : 2712
+            }, {
+              "width" : 3701,
+              "height" : 5423
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3701,
+            "@id" : "https://patymurrieta.github.io/Nahuatl_Documents/images/ENL_Anacotitla_Jalisco_1652_Folio_d",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 5423,
+            "id" : "https://patymurrieta.github.io/Nahuatl_Documents/images/ENL_Anacotitla_Jalisco_1652_Folio_d"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
