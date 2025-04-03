@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 116,
+    "height" : 170
+  }, {
+    "width" : 232,
+    "height" : 339
+  }, {
+    "width" : 463,
+    "height" : 678
+  }, {
+    "width" : 926,
+    "height" : 1356
+  }, {
+    "width" : 1851,
+    "height" : 2712
+  }, {
+    "width" : 3701,
+    "height" : 5423
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3701,
+  "@id" : "https://patymurrieta.github.io/Nahuatl_Documents/images/ENL_Anacotitla_Jalisco_1652_Folio_d",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5423
+}
